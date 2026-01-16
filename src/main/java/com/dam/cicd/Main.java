@@ -1,8 +1,5 @@
 package com.dam.cicd;
 
 public class Main {
-    public static  main(String[] args) {
-        System.out.println("Hello World!");
-    }
-
+    
 }
